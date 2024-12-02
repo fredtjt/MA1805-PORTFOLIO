@@ -1,0 +1,5 @@
+The following drawing is inspired by Jasper John's "Target," painted in 1958. 
+
+This is the first sketch of the course, and my aim was to reproduce the painting in p5.js
+
+the picture serves as an optical illusion, but my initial problem was the background and associating colours to RGB numbers. Upon creating the canvas and the background to a 640 x 480 size, I realised that it would be easier to do the math if I were to make the canvas into an easier number, such as 500 x 500. Upon researching the word for circle and finding out it as being an “ellipse,” I slowly using the draw function to add circles into the middle of the canvas until the optical illusion was recreated. Research to do for next time is to start to memorise the functions from today, and to further memorise the RGB colour system.
